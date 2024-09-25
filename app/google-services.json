@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "157030506713",
+    "firebase_url": "https://hdms-44e31-default-rtdb.firebaseio.com",
+    "project_id": "hdms-44e31",
+    "storage_bucket": "hdms-44e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157030506713:android:0b38af59170854f27c1ec8",
+        "android_client_info": {
+          "package_name": "com.iustbatch2018rollnocse70.hdms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157030506713-1np5b6hcb6d6gbobir3kbcbfm94a2v7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iustbatch2018rollnocse70.hdms",
+            "certificate_hash": "af48613a7f71e0f20b19acf774485c91e6d9d0dd"
+          }
+        },
+        {
+          "client_id": "157030506713-5sk3rcb0llduj5fmk643j1k2kghjs7dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvdH0HOsBozpwgBWN1lTIG2bTmvbK_drI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157030506713-5sk3rcb0llduj5fmk643j1k2kghjs7dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

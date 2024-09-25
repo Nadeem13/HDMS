@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Micro Services</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="home_message">Find daily need items arround you\nOr\nOffer your own!</string>
+
+    <string-array name="State">
+        <item>--Select State--</item>
+        <item>JammuKashmir</item>
+        <item>Gujarat</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Butter</item>
+        <item>Kashmiri Oil</item>
+        <item>Kashmiri Rice</item>
+        <item>MarcheWangan</item>
+        <item>Leder</item>
+        <item>Badian</item>
+        <item>BedAale</item>
+        <item>Dalchine</item>
+        <item>Sabaz Aale</item>
+        <item>Marche</item>
+        <item>Shoonth</item>
+        <item>Aalve</item>
+        <item>Tamatar</item>
+        <item>Cake</item>
+        <item>Razma Daal</item>
+        <item>Rista</item>
+        <item>Kabaab</item>
+        <item>Yakhnee</item>
+        <item>Tabakh Naate</item>
+    </string-array>
+</resources>
